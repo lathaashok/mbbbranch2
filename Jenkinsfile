@@ -1,6 +1,6 @@
 node('built-in') 
 {
-    stage('Continuous Download_cards) 
+    stage('Continuous Download_cards') 
 	{
     git 'https://github.com/lathaashok/mycode.git'
 	}
